@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Roche/dcp-pkg-fe-i18n.git"
+    "url": "https://github.com/Roche/dcp-pkg-fe-ts-i18n.git"
   },
   "publishConfig": {
     "access": "public"
